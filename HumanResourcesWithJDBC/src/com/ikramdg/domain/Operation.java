@@ -1,13 +1,12 @@
-package com.ikramdg.v1.domain;
+package com.ikramdg.domain;
 
 import java.sql.Connection;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.List;
 
-import com.ikramdg.v1.util.DBConnector;
-import com.ikramdg.v1.exceptions.IllegalArgumentException;
-import com.ikramdg.v1.exceptions.OperationExecutionException;
+import com.ikramdg.util.DBConnector;
+import com.ikramdg.exceptions.IllegalArgumentException;
 
 public abstract class Operation {
 

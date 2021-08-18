@@ -1,9 +1,9 @@
-package com.ikramdg.v1.main;
+package com.ikramdg.main;
 
-import com.ikramdg.v1.core.Program;
-import com.ikramdg.v1.core.ProgramBuilder;
-import com.ikramdg.v1.util.DBConnector;
-import com.ikramdg.v1.util.DBInitializer;
+import com.ikramdg.core.Program;
+import com.ikramdg.core.ProgramBuilder;
+import com.ikramdg.util.DBConnector;
+import com.ikramdg.util.DBInitializer;
 
 public class Driver {
 

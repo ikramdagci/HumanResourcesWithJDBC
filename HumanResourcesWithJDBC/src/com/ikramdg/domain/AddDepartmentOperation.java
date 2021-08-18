@@ -1,6 +1,6 @@
-package com.ikramdg.v1.domain;
+package com.ikramdg.domain;
 
-import com.ikramdg.v1.exceptions.OperationExecutionException;
+import com.ikramdg.exceptions.OperationExecutionException;
 
 public class AddDepartmentOperation extends Operation {
 

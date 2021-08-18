@@ -1,18 +1,18 @@
-package com.ikramdg.v1.core;
+package com.ikramdg.core;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import com.ikramdg.v1.domain.AddDepartmentOperation;
-import com.ikramdg.v1.domain.AddEmployeeOperation;
-import com.ikramdg.v1.domain.DeleteDepartmentOperation;
-import com.ikramdg.v1.domain.DeleteEmployeeOperation;
-import com.ikramdg.v1.domain.DisplayAllEmployeesOperation;
-import com.ikramdg.v1.domain.DisplayDepartmentsOperation;
-import com.ikramdg.v1.domain.Operation;
-import com.ikramdg.v1.domain.UpdateDepartmentNameOperation;
-import com.ikramdg.v1.domain.UpdateEmployeNameOperation;
-import com.ikramdg.v1.domain.UpdateEmployeeDepartmentOperation;
+import com.ikramdg.domain.AddDepartmentOperation;
+import com.ikramdg.domain.DeleteEmployeeOperation;
+import com.ikramdg.domain.DisplayAllEmployeesOperation;
+import com.ikramdg.domain.Operation;
+import com.ikramdg.domain.AddEmployeeOperation;
+import com.ikramdg.domain.DeleteDepartmentOperation;
+import com.ikramdg.domain.DisplayDepartmentsOperation;
+import com.ikramdg.domain.UpdateDepartmentNameOperation;
+import com.ikramdg.domain.UpdateEmployeNameOperation;
+import com.ikramdg.domain.UpdateEmployeeDepartmentOperation;
 
 public class ProgramBuilder {
 

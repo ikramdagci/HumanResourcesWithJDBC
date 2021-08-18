@@ -1,4 +1,4 @@
-package com.ikramdg.v1.core;
+package com.ikramdg.core;
 
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package com.ikramdg.v1.domain;
+package com.ikramdg.domain;
 
 import com.ikramdg.exceptions.EmployeeNotFoundException;
 

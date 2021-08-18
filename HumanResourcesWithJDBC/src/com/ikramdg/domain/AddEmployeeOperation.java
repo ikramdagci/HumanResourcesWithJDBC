@@ -1,9 +1,9 @@
-package com.ikramdg.v1.domain;
+package com.ikramdg.domain;
 
 import java.sql.SQLException;
 
-import com.ikramdg.v1.exceptions.DepartmentNotFoundException;
-import com.ikramdg.v1.exceptions.OperationExecutionException;
+import com.ikramdg.exceptions.DepartmentNotFoundException;
+import com.ikramdg.exceptions.OperationExecutionException;
 
 public class AddEmployeeOperation extends Operation {
 

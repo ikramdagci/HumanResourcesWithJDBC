@@ -1,12 +1,11 @@
-package com.ikramdg.v1.core;
+package com.ikramdg.core;
 
-import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;
 
-import com.ikramdg.v1.domain.Operation;
-import com.ikramdg.v1.exceptions.IllegalArgumentException;
-import com.ikramdg.v1.exceptions.NoSuchOperationException;
+import com.ikramdg.domain.Operation;
+import com.ikramdg.exceptions.IllegalArgumentException;
+import com.ikramdg.exceptions.NoSuchOperationException;
 
 public class Program {
 

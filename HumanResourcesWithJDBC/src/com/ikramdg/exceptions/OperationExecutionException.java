@@ -1,4 +1,4 @@
-package com.ikramdg.v1.exceptions;
+package com.ikramdg.exceptions;
 
 public class OperationExecutionException extends Exception{
 	
